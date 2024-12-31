@@ -42,6 +42,7 @@ function App() {
             About
           </Link>
           <Link to="Signup" className="container1">Register</Link>
+<Link to="/SignIn><\Link>
           <Link to="Clientpage" className="container1"></Link>
           <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"></link>
           
